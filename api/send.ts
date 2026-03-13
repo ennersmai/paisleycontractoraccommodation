@@ -1,4 +1,4 @@
-const FROM = "Paisley Inquiries <inquiries@paisleycontractoraccommodation.co.uk>";
+const FROM = "Paisley Inquiries <book@paisleycontractoraccommodation.co.uk>";
 const TO = "bookings@voyagecollection.co.uk";
 
 const LABEL: Record<string, string> = {
