@@ -1,3 +1,5 @@
+export const config = { runtime: "edge" };
+
 const FROM = "Paisley Inquiries <book@paisleycontractoraccommodation.co.uk>";
 const TO = "bookings@voyagecollection.co.uk";
 
